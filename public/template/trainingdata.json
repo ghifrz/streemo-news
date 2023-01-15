@@ -1,0 +1,57 @@
+[
+    {
+        "popularTraining": [
+            {
+                "name": "T Push Ups",
+                "imageUrl": "https://www.street-workouts.com/wp-content/uploads/2016/04/T-push-up.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=1-Ilv1xLq2M&list=PL029ED16E443140B3&index=1"
+            },
+            {
+                "name": "ABS Plank",
+                "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/hdm119918mh15842-1545237096.png",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=YuVr-YPGRUI&list=PL3965C0A3F3E6D383&index=13"
+            },
+            {
+                "name": "Wall Sit",
+                "imageUrl": "https://media.self.com/photos/6304f8e8b1ac17acc17bc375/4:3/w_2560%2Cc_limit/master-the-wall-sit.png",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=MMV3v4ap4ro&list=PL956A4B33ECF958B6&index=4"
+            },
+            {
+                "name": "Wide V Ups",
+                "imageUrl": "https://bodybuilding-wizard.com/wp-content/uploads/2021/02/V-ups-exercise-abdominals.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=2W6mVAFoS70&list=PLCEFCA54D665B8080&index=12"
+            }
+        ],
+
+        "trainingForYou": [
+            {
+                "name": "Push Up For Beginner",
+                "imageUrl": "https://www.shutterstock.com/image-vector/woman-doing-wide-push-ups-260nw-1993802285.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=Y19ZgAcj0sg"
+            },
+            {
+                "name": "Floor Wiper Stretch",
+                "imageUrl": "https://www.wikihow.com/images/thumb/1/1c/Do-the-Windshield-Wiper-Stretch-Step-2.jpg/v4-460px-Do-the-Windshield-Wiper-Stretch-Step-2.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=SIzEgpoNwsc&list=PL2CAE1E427FEFEE0F&index=2"
+            },
+            {
+                "name": "Buttock Lunges",
+                "imageUrl": "https://welltech.com/wp-content/uploads/2022/11/dumbbell-glute-exercises_cover-992x586.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=HacUpgo8h80&list=PL956A4B33ECF958B6&index=7"
+            },
+            {
+                "name": "Cardio Moutain Climber",
+                "imageUrl": "https://rejuvage.com/wp-content/uploads/2019/07/iStock-957699448.jpg",
+                "totalLesson": "1",
+                "videoUrlyou": "https://www.youtube.com/watch?v=lvaQcFaxL00&list=PL956A4B33ECF958B6&index=3"
+            }
+        ]
+    }
+]
